@@ -74,8 +74,8 @@ setelah itu kita dapat memasukkan ke dalam rumus
 ```code
 R(n^, theta) = I + w * [v^]x + (2 * ([v^]x * [v^]x))
 ```
-untuk mendapatkan matriks pengali rotasi unit quartenion
-terakhir kita kalikan matrix R dengan matriks titik objek 3D.
+untuk mendapatkan matriks pengali rotasi unit quartenion.
+Terakhir kita kalikan matrix R dengan matriks titik objek 3D.
 
 
 ### Kesimpulan dari eksperimen dengan rotasi unit quartenion
