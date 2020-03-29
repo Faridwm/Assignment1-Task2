@@ -79,3 +79,4 @@ Terakhir kita kalikan matrix R dengan matriks titik objek 3D.
 
 
 ### Kesimpulan dari eksperimen dengan rotasi unit quartenion
+Dari experimen menggunakna unit quartenion saya menguji dengan n^ yang sama dengan n^ yang digunakan saat ekperimen pada rotasi 3D axis dan hasil yang saya dapatkan sama ekperimen pada rotasi axis yaitu menggunakan n^ yang memiliki magnitude < 1 maka objek akan berotasi sedikit. Jika magnitude dari n^ = 1 maka rotasi akan sempurna, dan jika magnitude n^ > 1 maka objek akan semakin besar dan pipih
